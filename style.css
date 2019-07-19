@@ -1,6 +1,6 @@
 .top{
         background-color: #0066ff;
-        color: black;
+        color: white;
         width: 100%;
         border: 5px solid black;
         height: 25px;
@@ -13,23 +13,35 @@
         margin-right: 5px;
         margin-top: 0px;
         content: 10px;
-        font-family:"Times New Roman", Times, serif;
+        
 
 }
 .topnav {
 overflow: hidden;
-background-color: #ffffff;
+background-color: #050505;
+
 }
 .topnav a {
-float: left;
-display: block;
-color: #000000;
-text-align: center;
+float: right;
+display: flex;
+color: #f3f0f0;
+text-align: right;
 padding: 14px 20px;
 text-decoration: none;
+font-family:"Times New Roman", Times, serif;
+font-size: 40px
 }
 .topnav a:hover {
 background-color: #0a6a8a;
 color: yellow;
 }
+body {
+        
+        color:white;
+        background-image:url("https://www.linuxfoundation.org/wp-content/uploads/2016/12/lf_background_trees.jpg")
 
+}
+#topname{
+        font-size: 55px;
+        
+}

@@ -32,8 +32,8 @@ font-family:"Times New Roman", Times, serif;
 font-size: 40px
 }
 .topnav a:hover {
-background-color: #0a6a8a;
-color: yellow;
+background-color: #eff3f5;
+color: rgb(0, 0, 0);
 }
 body {
         
@@ -44,4 +44,13 @@ body {
 #topname{
         font-size: 55px;
         
+}
+#header{
+        font-size: 55px;
+        color: rgb(241, 241, 241);
+        font-family: Arial, Helvetica, sans-serif;
+}
+#Contact{
+        width: 300px;
+        color: #050505
 }

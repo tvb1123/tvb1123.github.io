@@ -54,3 +54,9 @@ body {
         width: 300px;
         color: #050505
 }
+#wildcat {
+        padding-right: 50px;      
+}
+#google {
+        padding-left: 20px
+}
